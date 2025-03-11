@@ -1,0 +1,15 @@
+{
+  "name": "gym-lambda",
+  "version": "1.0.0",
+  "description": "lambda fnc for gym_application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsha, K Sahana",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^16.4.7"
+  }
+}
